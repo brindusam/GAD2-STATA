@@ -1,5 +1,5 @@
 # GAD2-STATA
-We B.C. Movradin, C. Rusnac, and T.H.M.N.I. Imbaby, affirm that the work done on this assignment is my own and I have not given nor received aid that is inappropriate for this assignment. I understand that violation of these principles will lead to a zero on this assignment. I have not engaged in the unacceptable behaviours listed below. 
+#We B.C. Movradin, C. Rusnac, and T.H.M.N.I. Imbaby, affirm that the work done on this assignment is our own and we have not given nor received aid that is inappropriate for this assignment. We understand that violation of these principles will lead to a zero on this assignment. We have not engaged in the unacceptable behaviours listed below. 
 The following are unacceptable behaviours for the computer assignments and are a violation of academic integrity:
 1)     Copying someone else's work, even partially. 
 2)     Dividing the work so student A does some exercises and student B does some exercises and combining it together. 
